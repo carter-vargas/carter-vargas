@@ -1,19 +1,7 @@
-## Hi there 👋
+## Northeastern University
+## B.S. Data Science and Biochemistry Candidate
 
-<!--
-**carter-vargas/carter-vargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Languages: Python, Java, SQL, JavaScript.
+Software/Tools: VSC, Jupyter, Docker, PyCharm, Pandas, Numpy, Matplotlib.
 
 
-My name is Carter Vargas
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning data science and biology
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
